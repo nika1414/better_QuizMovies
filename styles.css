@@ -1,0 +1,181 @@
+* {
+  background-color: #3956df;
+}
+
+.mainImage {
+  width: 400px;
+}
+
+.descr {
+  width: 1000px;
+  margin-left: 450px;
+  margin-top: -540px;
+}
+
+.descr1 {
+  width: 1000px;
+  margin-left: 450px;
+}
+
+.descr2 {
+  width: 1000px;
+  margin-left: 450px;
+}
+
+.eddie {
+  display: inline;
+  width: 155px;
+  height: 150px;
+  align-items: center;
+  margin-top: 40px;
+  margin-left: 150px;
+}
+
+.eric {
+  display: inline;
+  width: 155px;
+  height: 150px;
+  align-items: center;
+  margin-top: 40px;
+  margin-left: 150px;
+}
+
+.kurt {
+  display: inline;
+  width: 155px;
+  height: 150px;
+  align-items: center;
+  margin-top: 40px;
+  margin-left: 150px;
+}
+
+.marcus {
+  display: inline;
+  width: 155px;
+  height: 150px;
+  align-items: center;
+  margin-top: 40px;
+  margin-left: 150px;
+}
+
+.simImg1 {
+  height: 400px;
+}
+
+.simText1 {
+  width: 400px;
+  height: 400px;
+  margin-left: 290px;
+  margin-top: -400px;
+  background-color: white;
+  padding: 10px;
+}
+
+.simImg2 {
+  margin-left: 800px;
+  margin-top: -328px;
+  height: 400px;
+}
+
+.simText2 {
+  width: 400px;
+  margin-left: 1085px;
+  margin-top: -400px;
+  background-color: white;
+  padding: 10px;
+}
+.Sim2 {
+  margin-top: -110px;
+  background-color: transparent;
+}
+
+.simImg3 {
+  margin-top: 100px;
+  height: 400px;
+}
+
+.simText3 {
+  width: 400px;
+  margin-left: 290px;
+  margin-top: -400px;
+  background-color: white;
+  padding: 10px;
+}
+
+.simImg4 {
+  margin-left: 800px;
+  margin-top: -400px;
+  height: 400px;
+}
+
+.simText4 {
+  width: 400px;
+  margin-left: 1085px;
+  margin-top: -400px;
+  background-color: white;
+  padding: 10px;
+}
+
+.Sim4 {
+  margin-top: -11px;
+  background-color: transparent;
+}
+
+h1 {
+  font-family: "Ubuntu", sans-serif;
+  color: white;
+}
+h2 {
+  font-family: "Ubuntu", sans-serif;
+  color: white;
+}
+p {
+  font-family: "Yaldevi", sans-serif;
+  color: black;
+}
+
+.descriptions p {
+  font-weight: bold;
+  background-color: #89bdf0;
+  padding: 8px;
+}
+
+.similars p {
+  font-weight: bold;
+  background-color: #89bdf0;
+}
+.characters img {
+  background-color: #89bdf0;
+  padding: 10px;
+}
+.names p {
+  display: inline;
+  text-align: justify;
+  background-color: #2b43b1;
+  padding: 3px;
+  margin: 125px;
+  font-weight: bold;
+  color: #bddeff;
+}
+
+.names {
+  width: 100%;
+  margin-top: 4px;
+}
+
+#eddie {
+  margin: 0;
+  margin-left: 190px;
+}
+#eric {
+  margin: 0;
+  margin-left: 220px;
+}
+#kurt {
+  margin: 0;
+  margin-left: 220px;
+}
+#marcus {
+  margin: 0;
+  margin-left: 220px;
+}
