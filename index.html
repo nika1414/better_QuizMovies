@@ -20,7 +20,12 @@
     <title>Quiz 1</title>
   </head>
   <body>
-    <h1>Grown Ups</h1>
+    <nav id="navbar">
+      <a href="#home">Home</a>
+      <a href="#similars">Similar Movies</a>
+      <a href="#register">Register</a>
+    </nav>
+    <h1 id="home">Grown Ups</h1>
     <img class="mainImage" src="images/growns.jpg" />
     <div class="descriptions">
       <p class="descr">
@@ -89,8 +94,9 @@
       <p id="kurt">Kurt Mckenzie</p>
       <p id="marcus">Marcus Higgins</p>
     </div>
+    <br />
     <hr color="white" />
-    <h2>Similar Movies</h2>
+    <h2 id="similars">Similar Movies</h2>
     <br />
     <div class="similars">
       <div class="Sim1">
@@ -171,5 +177,41 @@
         </p>
       </div>
     </div>
+    <br />
+    <hr color="white" />
+    <h2 id="register">Registration Form</h2>
+    <br />
+    <form class="registerForm">
+      <div class="container">
+        <label for="email">Email</label>
+        <input
+          type="text"
+          placeholder="Enter your email"
+          name="email"
+          id="email"
+          required
+        />
+
+        <label for="psw">Password </label>
+        <input
+          type="password"
+          placeholder="Enter your password"
+          name="psw"
+          id="psw"
+          required
+        />
+
+        <label for="psw-repeat">Repeat Password</label>
+        <input
+          type="password"
+          placeholder="Repeat your email"
+          name="psw-repeat"
+          id="psw-repeat"
+          required
+        />
+
+        <button type="submit" class="registerbtn">Register</button>
+      </div>
+    </form>
   </body>
 </html>
